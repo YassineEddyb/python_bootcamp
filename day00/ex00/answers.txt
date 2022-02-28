@@ -1,0 +1,7 @@
+pip list
+
+import numpy
+print(numpy.__version__)
+pip uninstall numpy
+pip install numpy
+
